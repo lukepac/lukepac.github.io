@@ -1,0 +1,25 @@
+/* Small devices */
+@media only screen and (max-width: 767px) {
+    .navbar-default {
+        background-color: #fff !important;
+        border-color: #e6e6e6;
+    }
+}
+
+
+/* Small devices  and tablets*/
+@media only screen and (max-width: 768px) {
+    .header-iphone {
+        display: none;
+    }
+}
+
+/* Medium devices,desktops */
+@media only screen and (max-width: 992px) {
+    
+}
+
+/* Large devices And Wide Screens*/
+@media only screen and (max-width: 1200px) {
+    
+}
