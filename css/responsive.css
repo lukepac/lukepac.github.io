@@ -12,6 +12,9 @@
     .header-iphone {
         display: none;
     }
+    .header-textm .header-btns {
+        text-align: center;
+    }
 }
 
 /* Medium devices,desktops */
