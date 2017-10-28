@@ -4,6 +4,13 @@
         background-color: #fff !important;
         border-color: #e6e6e6;
     }
+    .about-iphone img {
+        width: 100%;
+    }
+    .purchase-now .col-md-3 {
+        text-align: center;
+        padding-top: 50px;
+    }
 }
 
 
@@ -12,7 +19,7 @@
     .header-iphone {
         display: none;
     }
-    .header-textm .header-btns {
+    .header-text, .header-btns {
         text-align: center;
     }
 }
